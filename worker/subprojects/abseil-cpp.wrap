@@ -2,7 +2,7 @@
 directory = abseil-cpp-20211102.0
 source_url = https://github.com/wxpppp/abseil-cpp/releases/download/20211102.0/abseil-cpp-20211102.0.tar.gz
 source_filename = abseil-cpp-20211102.0.tar.gz
-source_hash = dcf71b9cba8dc0ca9940c4b316a0c796be8fab42b070bb6b7cab62b48f0e66c4
+source_hash = 45680cecba8165f01c2db3b75a6094c6ff446e3d56e5d7d4753093474a2fffb6
 patch_filename = abseil-cpp_20211102.0-2_patch.zip
 patch_url = https://github.com/wxpppp/abseil-cpp/releases/download/20211102.0/abseil-cpp_20211102.0-2_patch.zip
 patch_hash = 9463930367b0db984435350c7d7614e400faa8811a7e9a2def5a63ff39fdb325
